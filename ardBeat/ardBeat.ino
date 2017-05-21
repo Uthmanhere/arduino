@@ -1,3 +1,5 @@
+unsigned int pin = 13;
+
 void setup() {
   // set the pinOnArtery wire on your wrist
   // along with either of the available
